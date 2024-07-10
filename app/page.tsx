@@ -68,7 +68,7 @@ export default function Home() {
         </div>    
        </div>  
        <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
-         <p>Hey, my name is olivier and i&lsquo;m a full stack developer/architect based in Paris/Bangkok</p>
+         <p>Hey, my name is olivier and i&apos;m a full stack developer/architect based in Paris/Bangkok</p>
          <p>I love building Full Stack applications with React and to share them
             on YouTube. When I discovered React, I was blown away by its
             interactivity and speed. Its virtual DOM and efficient rendering
